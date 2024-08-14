@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@weto91"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/weto91/ha-gasolineras-espana",
+  "domain": "ha-gasolineras-espana",
+  "iot_class": "cloud_polling",
+  "name": "HA Gasolineras España",
+  "requirements": [],
+  "version": "1.0.0"
+}
